@@ -6,5 +6,5 @@ easyocr
 python-dotenv
 google-genai
 groq
-inference-sdk
+inference
 PyMuPDF
