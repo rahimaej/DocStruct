@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+pillow
+inference
+google-generativeai
+groq
+python-dotenv
+easyocr
+PyMuPDF
